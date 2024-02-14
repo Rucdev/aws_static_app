@@ -1,1 +1,1 @@
-# aws_static_app
+# AWSにWebアプリケーションもどきを構築する
